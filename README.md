@@ -1,4 +1,4 @@
-# The K Configuration Language (KCL) Specification
+# The Kusion Configuration Language (KCL) Specification
 
 This is KCL version `0.4.1`.
 
